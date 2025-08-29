@@ -1,0 +1,11 @@
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\bin\Debug\net8.0\XTFtpServer.deps.json
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\bin\Debug\net8.0\XTFtpServer.dll
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\bin\Debug\net8.0\XTFtpServer.pdb
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\XTFtpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\XTFtpServer.AssemblyInfoInputs.cache
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\XTFtpServer.AssemblyInfo.cs
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\XTFtpServer.csproj.CoreCompileInputs.cache
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\XTFtpServer.dll
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\refint\XTFtpServer.dll
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\XTFtpServer.pdb
+D:\zzp\project\创业项目\PC软件\溪流HomeCloud\XTFtp\obj\Debug\net8.0\ref\XTFtpServer.dll
