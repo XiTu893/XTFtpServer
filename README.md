@@ -225,8 +225,8 @@ XTFtpServer 是开源免费项目，开发和维护需要大量时间和精力�
 
 | 支付方式 | 二维码 |
 |----------|--------|
-| 微信赞赏 | ![微信赞赏码](QrReward) |
-| 支付宝赞赏 | ![支付宝赞赏码](https://github.com/XiTu893/XTFtpServer/blob/main/QrReward.jpg) |
+| 微信赞赏 | ![微信赞赏码](https://github.com/XiTu893/XTFtpServer/blob/main/QrReward.jpg) |
+ 
 
 其他支持方式：
 - 给本仓库点个 ⭐️ Star
