@@ -1,7 +1,7 @@
 ```markdown
 # XTFtpServer
 
-![XTFtpServer Logo](https://github.com/prism3dcn/XTFtpServer/blob/main/XT-Logo.png)  
+![XTFtpServer Logo](https://github.com/XiTu893/XTFtpServer/blob/main/XT-Logo.png)  
 基于 C# 的轻量级、高性能 FTP 服务器库，支持快速集成到 .NET 应用，无需深入理解 FTP 协议细节，几行代码即可实现完整的文件传输服务。
 
 
@@ -41,7 +41,7 @@ Install-Package XTFtpServer
 克隆仓库并手动编译：
 ```bash
 # 克隆源码
-git clone https://github.com/prism3dcn/XTFtpServer.git
+git clone https://github.com/XiTu893/XTFtpServer.git
 
 # 进入项目目录
 cd XTFtpServer
@@ -119,11 +119,11 @@ namespace XTFtpDemo
 
 | 文档主题 | 链接 |
 |----------|------|
-| API 参考 | [API Documentation](https://github.com/prism3dcn/XTFtpServer/wiki/API-Reference) |
-| 配置指南 | [Server Configuration](https://github.com/prism3dcn/XTFtpServer/wiki/Server-Configuration) |
-| 自定义认证 | [Custom Authentication](https://github.com/prism3dcn/XTFtpServer/wiki/Custom-Authentication) |
-| 扩展文件系统 | [Extend File System](https://github.com/prism3dcn/XTFtpServer/wiki/Extend-File-System) |
-| 常见问题 | [FAQ](https://github.com/prism3dcn/XTFtpServer/wiki/FAQ) |
+| API 参考 | [API Documentation](https://github.com/XiTu893/XTFtpServer/wiki/API-Reference) |
+| 配置指南 | [Server Configuration](https://github.com/XiTu893/XTFtpServer/wiki/Server-Configuration) |
+| 自定义认证 | [Custom Authentication](https://github.com/XiTu893/XTFtpServer/wiki/Custom-Authentication) |
+| 扩展文件系统 | [Extend File System](https://github.com/XiTu893/XTFtpServer/wiki/Extend-File-System) |
+| 常见问题 | [FAQ](https://github.com/XiTu893/XTFtpServer/wiki/FAQ) |
 
 
 ## 📁 示例项目
@@ -204,7 +204,7 @@ ftpServer.ClientDisconnected += (sender, e) =>
 
 欢迎通过以下方式参与项目贡献：
 
-1. **提交 Bug 或需求**：在 [Issues](https://github.com/prism3dcn/XTFtpServer/issues) 中提交详细描述
+1. **提交 Bug 或需求**：在 [Issues](https://github.com/XiTu893/XTFtpServer/issues) 中提交详细描述
 2. **代码贡献**：
    - Fork 仓库
    - 创建特性分支（`git checkout -b feature/your-feature`）
@@ -226,7 +226,7 @@ XTFtpServer 是开源免费项目，开发和维护需要大量时间和精力�
 | 支付方式 | 二维码 |
 |----------|--------|
 | 微信赞赏 | ![微信赞赏码](QrReward) |
-| 支付宝赞赏 | ![支付宝赞赏码](https://github.com/prism3dcn/XTFtpServer/blob/main/QrReward.jpg) |
+| 支付宝赞赏 | ![支付宝赞赏码](https://github.com/XiTu893/XTFtpServer/blob/main/QrReward.jpg) |
 
 其他支持方式：
 - 给本仓库点个 ⭐️ Star
@@ -236,7 +236,7 @@ XTFtpServer 是开源免费项目，开发和维护需要大量时间和精力�
 
 ## 📞 联系作者
 
-- GitHub: [溪土工作室](https://github.com/prism3dcn)
+- GitHub: [溪土工作室](https://github.com/XiTu893)
 - Email: 28491599@qq.com 
 
 
